@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+    
+}
+
+.bg-body-tertiary{
+    margin: 0;
+    padding: 0;
+   
+}
+.container-fluid{
+    background-color: rgb(172, 216, 183);
+    /* margin: 0; */
+    height: 70px;
+  
+}
+.navbar-brand{
+    
+    margin-left: 12px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.navbar-collapse{
+    /* border: 4px solid black; */
+    display: flex;
+    justify-content: center;
+}
+#searchinput{
+    width: 500px;
+    border: 2px solid black;
+}
+#searchbtn{
+    width: 80px;
+    border: 2px solid black;
+}
+#definition{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(255, 2, 2);
+}
+.btn{
+    font-weight: bold;
+}
+
